@@ -1,0 +1,27 @@
+#chart {
+z-index: 4;
+padding: 15px;
+width:390px;
+height : 370px;
+background-color: white;
+border-radius: 10px;
+margin: 0 !important;
+}
+
+
+figure{
+    margin: 0 !important;
+    }
+
+
+span{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#tex {
+    font-size: 11px;
+    font-weight:100;
+    }
+    
+
